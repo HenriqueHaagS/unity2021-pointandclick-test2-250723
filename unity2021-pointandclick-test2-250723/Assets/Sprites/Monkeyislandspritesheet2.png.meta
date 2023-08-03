@@ -1,46 +1,7 @@
 fileFormatVersion: 2
-guid: 966d1fce2e7e7614aa3d661b9148c705
+guid: 52deb8b7866dae34f890149c80718e02
 TextureImporter:
-  internalIDToNameTable:
-  - first:
-      213: -5920198393961191776
-    second: Monkeyislandspritesheet_0
-  - first:
-      213: -7227203152828522313
-    second: Monkeyislandspritesheet_1
-  - first:
-      213: -6554755284644489300
-    second: Monkeyislandspritesheet_2
-  - first:
-      213: 5308124495977049829
-    second: Monkeyislandspritesheet_3
-  - first:
-      213: -6895040144353799683
-    second: Monkeyislandspritesheet_4
-  - first:
-      213: -6442198151629528753
-    second: Monkeyislandspritesheet_5
-  - first:
-      213: 924667065784566886
-    second: Monkeyislandspritesheet_10
-  - first:
-      213: 5366220633898277929
-    second: Monkeyislandspritesheet_11
-  - first:
-      213: -2010995624549427607
-    second: Monkeyislandspritesheet_12
-  - first:
-      213: 1752700540887160718
-    second: Monkeyislandspritesheet_13
-  - first:
-      213: -2005057703655693811
-    second: Monkeyislandspritesheet_17
-  - first:
-      213: 4155016495610102873
-    second: Monkeyislandspritesheet_18
-  - first:
-      213: 3307492314979015600
-    second: Monkeyislandspritesheet_19
+  internalIDToNameTable: []
   externalObjects: {}
   serializedVersion: 12
   mipmaps:
@@ -102,7 +63,7 @@ TextureImporter:
   textureFormatSet: 0
   ignorePngGamma: 0
   applyGammaDecoding: 0
-  cookieLightType: 1
+  cookieLightType: 0
   platformSettings:
   - serializedVersion: 3
     buildTarget: DefaultTexturePlatform
@@ -121,19 +82,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 0
-    compressionQuality: 50
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    overridden: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 0
-  - serializedVersion: 3
-    buildTarget: Android
-    maxTextureSize: 2048
-    resizeAlgorithm: 0
-    textureFormat: -1
-    textureCompression: 0
+    textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -145,7 +94,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 0
+    textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -157,7 +106,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 0
+    textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -168,200 +117,200 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Monkeyislandspritesheet_0
+      name: Monkeyislandspritesheet2_0
       rect:
         serializedVersion: 2
         x: 0
-        y: 200
-        width: 48
-        height: 50
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        y: 208
+        width: 40
+        height: 42
+      alignment: 9
+      pivot: {x: 0.50352913, y: 0.02946799}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 0a6ea106dea37dda0800000000000000
-      internalID: -5920198393961191776
+      spriteID: e1f7daf5b5824be4a9628341d5482018
+      internalID: -1735607526
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Monkeyislandspritesheet_1
+      name: Monkeyislandspritesheet2_1
       rect:
         serializedVersion: 2
-        x: 48
-        y: 200
-        width: 48
-        height: 50
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 40
+        y: 208
+        width: 40
+        height: 42
+      alignment: 9
+      pivot: {x: 0.4999999, y: 0.026107062}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7b0a21c1601d3bb90800000000000000
-      internalID: -7227203152828522313
+      spriteID: 429a495d1d202334aa11b4f36415e0be
+      internalID: -54267735
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Monkeyislandspritesheet_2
+      name: Monkeyislandspritesheet2_2
       rect:
         serializedVersion: 2
-        x: 96
-        y: 200
-        width: 48
-        height: 50
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 80
+        y: 208
+        width: 40
+        height: 42
+      alignment: 9
+      pivot: {x: 0.44000703, y: 0.019385202}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ca796251cc4d805a0800000000000000
-      internalID: -6554755284644489300
+      spriteID: c7c7792229a9ee44ebd47df547e600d4
+      internalID: -2048454164
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Monkeyislandspritesheet_3
-      rect:
-        serializedVersion: 2
-        x: 0
-        y: 150
-        width: 48
-        height: 50
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 5eee24efa1f3aa940800000000000000
-      internalID: 5308124495977049829
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Monkeyislandspritesheet_4
-      rect:
-        serializedVersion: 2
-        x: 48
-        y: 150
-        width: 48
-        height: 50
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: df1dbbb2585ef40a0800000000000000
-      internalID: -6895040144353799683
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Monkeyislandspritesheet_5
-      rect:
-        serializedVersion: 2
-        x: 96
-        y: 150
-        width: 48
-        height: 50
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: f41a17fc9e6b896a0800000000000000
-      internalID: -6442198151629528753
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Monkeyislandspritesheet_10
+      name: Monkeyislandspritesheet2_7
       rect:
         serializedVersion: 2
         x: 0
-        y: 100
-        width: 48
-        height: 50
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        y: 166
+        width: 40
+        height: 42
+      alignment: 9
+      pivot: {x: 0.50352913, y: 0.016024271}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 66487971cc315dc00800000000000000
-      internalID: 924667065784566886
+      spriteID: 87cfeaadbc7799b4e8642daa0496a599
+      internalID: 487985573
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Monkeyislandspritesheet_11
+      name: Monkeyislandspritesheet2_8
       rect:
         serializedVersion: 2
-        x: 48
-        y: 100
-        width: 48
-        height: 50
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 40
+        y: 166
+        width: 40
+        height: 42
+      alignment: 9
+      pivot: {x: 0.49647093, y: 0.02274613}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 92cd0ed2c35a87a40800000000000000
-      internalID: 5366220633898277929
+      spriteID: a7cd7748f03e4fb42867d3817bd5f495
+      internalID: -2140038552
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Monkeyislandspritesheet_12
+      name: Monkeyislandspritesheet2_9
       rect:
         serializedVersion: 2
-        x: 96
-        y: 100
-        width: 48
-        height: 50
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 80
+        y: 166
+        width: 40
+        height: 42
+      alignment: 9
+      pivot: {x: 0.5317608, y: 0.016024271}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 966ddd952228714e0800000000000000
-      internalID: -2010995624549427607
+      spriteID: 3e9a2b00e97e7054182e98ed5b0ba443
+      internalID: 1766543425
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Monkeyislandspritesheet_13
+      name: Monkeyislandspritesheet2_14
       rect:
         serializedVersion: 2
-        x: 144
-        y: 100
+        x: 0
+        y: 124
+        width: 40
+        height: 42
+      alignment: 9
+      pivot: {x: 0.49647117, y: 0.02946799}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 045a60765b65369489195278e907dc7f
+      internalID: 707753547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monkeyislandspritesheet2_15
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 124
+        width: 40
+        height: 42
+      alignment: 9
+      pivot: {x: 0.52470285, y: 0.01938502}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61f4622c98477f440a0380acde2c147d
+      internalID: -542646174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monkeyislandspritesheet2_16
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 124
+        width: 40
+        height: 42
+      alignment: 9
+      pivot: {x: 0.5317608, y: 0.02274613}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd4bd0ba84a019c43af277cb5ec85d55
+      internalID: 1585202729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monkeyislandspritesheet2_17
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 124
         width: 160
         height: 90
       alignment: 0
@@ -371,71 +320,71 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e87d6311bd7d25810800000000000000
-      internalID: 1752700540887160718
+      spriteID: fd9ef953bfbc2c1498bcb60a298d69ff
+      internalID: -1654319969
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Monkeyislandspritesheet_17
+      name: Monkeyislandspritesheet2_21
       rect:
         serializedVersion: 2
         x: 0
-        y: 50
-        width: 48
-        height: 50
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        y: 82
+        width: 40
+        height: 42
+      alignment: 9
+      pivot: {x: 0.552935, y: 0.019385383}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d02217b44aa9c24e0800000000000000
-      internalID: -2005057703655693811
+      spriteID: b13fe1b488c4a7b4a8df716dd8312447
+      internalID: -95077664
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Monkeyislandspritesheet_18
+      name: Monkeyislandspritesheet2_22
       rect:
         serializedVersion: 2
-        x: 48
-        y: 50
-        width: 48
-        height: 50
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 40
+        y: 82
+        width: 40
+        height: 42
+      alignment: 9
+      pivot: {x: 0.51058686, y: 0.016024454}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 9548ab01d7599a930800000000000000
-      internalID: 4155016495610102873
+      spriteID: af7ef1c029012eb4bb3bfe7302f99313
+      internalID: -661269761
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Monkeyislandspritesheet_19
+      name: Monkeyislandspritesheet2_23
       rect:
         serializedVersion: 2
-        x: 96
-        y: 50
-        width: 48
-        height: 50
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 80
+        y: 82
+        width: 40
+        height: 42
+      alignment: 9
+      pivot: {x: 0.51058674, y: 0.016024454}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 0bb98a39cb296ed20800000000000000
-      internalID: 3307492314979015600
+      spriteID: 94efaa57dc3e1024f9f164c6353b70a4
+      internalID: -2078623096
       vertices: []
       indices: 
       edges: []
@@ -443,7 +392,7 @@ TextureImporter:
     outline: []
     physicsShape: []
     bones: []
-    spriteID: caf668ffed7078d40b4aa6d84cf29c7b
+    spriteID: 5e97eb03825dee720800000000000000
     internalID: 0
     vertices: []
     indices: 
@@ -451,19 +400,30 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      Monkeyislandspritesheet_0: -5920198393961191776
-      Monkeyislandspritesheet_1: -7227203152828522313
-      Monkeyislandspritesheet_10: 924667065784566886
-      Monkeyislandspritesheet_11: 5366220633898277929
-      Monkeyislandspritesheet_12: -2010995624549427607
-      Monkeyislandspritesheet_13: 1752700540887160718
-      Monkeyislandspritesheet_17: -2005057703655693811
-      Monkeyislandspritesheet_18: 4155016495610102873
-      Monkeyislandspritesheet_19: 3307492314979015600
-      Monkeyislandspritesheet_2: -6554755284644489300
-      Monkeyislandspritesheet_3: 5308124495977049829
-      Monkeyislandspritesheet_4: -6895040144353799683
-      Monkeyislandspritesheet_5: -6442198151629528753
+      Monkeyislandspritesheet2_0: -1735607526
+      Monkeyislandspritesheet2_1: -54267735
+      Monkeyislandspritesheet2_10: -1817030218
+      Monkeyislandspritesheet2_11: -1282902315
+      Monkeyislandspritesheet2_12: -956137972
+      Monkeyislandspritesheet2_13: -635253615
+      Monkeyislandspritesheet2_14: 707753547
+      Monkeyislandspritesheet2_15: -542646174
+      Monkeyislandspritesheet2_16: 1585202729
+      Monkeyislandspritesheet2_17: -1654319969
+      Monkeyislandspritesheet2_18: -1191198921
+      Monkeyislandspritesheet2_19: -713332722
+      Monkeyislandspritesheet2_2: -2048454164
+      Monkeyislandspritesheet2_20: -1929181064
+      Monkeyislandspritesheet2_21: -95077664
+      Monkeyislandspritesheet2_22: -661269761
+      Monkeyislandspritesheet2_23: -2078623096
+      Monkeyislandspritesheet2_3: 1707872510
+      Monkeyislandspritesheet2_4: -2047573070
+      Monkeyislandspritesheet2_5: -1296072825
+      Monkeyislandspritesheet2_6: 2103907029
+      Monkeyislandspritesheet2_7: 487985573
+      Monkeyislandspritesheet2_8: -2140038552
+      Monkeyislandspritesheet2_9: 1766543425
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0
