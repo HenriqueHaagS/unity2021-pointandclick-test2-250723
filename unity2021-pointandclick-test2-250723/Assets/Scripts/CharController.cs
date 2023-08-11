@@ -12,6 +12,7 @@ public class CharController : MonoBehaviour
 
     private NavMeshAgent agent;
     private Animator animator;
+    private SpriteRenderer spriteRenderer;
 
     private Vector2 stuckDistanceCheck;
 
@@ -22,7 +23,7 @@ public class CharController : MonoBehaviour
         agent.updateRotation = false;
         agent.updateUpAxis = false;
         animator = GetComponent<Animator>();
-
+        spriteRenderer = GetComponent<SpriteRenderer>();
     }
 
     void Update()
@@ -34,6 +35,7 @@ public class CharController : MonoBehaviour
         }
         agent.SetDestination(new Vector3(followSpot.x, followSpot.y, transform.position.z));
         UpdateAnimation();
+        AdjustSortingLayer();
     }
 
     private void UpdateAnimation()
@@ -52,7 +54,10 @@ public class CharController : MonoBehaviour
             float angle = Mathf.Atan2(direction.x, direction.y) * Mathf.Rad2Deg;
             animator.SetFloat("Angle", angle);
             stuckDistanceCheck = transform.position;
-        }
-        
+        }        
+    }
+    private void AdjustSortingLayer()
+    {
+        spriteRenderer.sortingOrder = (int)(transform.position.y * -9);
     }
 }
